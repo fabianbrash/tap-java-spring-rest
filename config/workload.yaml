@@ -27,7 +27,7 @@ spec:
         description: Manage customer profiles
   source:
     git:
-      url: <https URL for your generated project's Git repository>
+      url: https://github.com/fabianbrash/tap-java-spring-rest.git
       ref:
         branch: main
   serviceClaims:
